@@ -51,7 +51,6 @@ Install required libraries using pip:
 ```bash
 pip install -r requirements.txt
 ```
-If you don’t have pip, follow this guide.
 
 ---
 
