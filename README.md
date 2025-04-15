@@ -39,7 +39,7 @@ Before running this project, make sure you have:
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/TygroTheProgrammer/CherwellToBiZZDesignAPI.git
+git clone https://github.com/TygroTheProgrammer/BiZZDesignToCherwellAPI.git
 cd CherwellToBiZZDesignAPI
 ```
 
