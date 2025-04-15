@@ -1,4 +1,4 @@
-# 🔄 BiZZDesign to Cherwell Field Sync
+# 🔄 BiZZDesign to Cherwell
 
 This project is a **Python-based tool** that automatically syncs important application data from a platform called **BiZZDesign** into another platform called **Cherwell**. It connects to both systems via their APIs (a way for software to talk to each other), extracts specific information, and updates it in the target system.
 
@@ -39,8 +39,8 @@ Before running this project, make sure you have:
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/bizzdesign-cherwell-sync.git
-cd bizzdesign-cherwell-sync
+git clone https://github.com/TygroTheProgrammer/CherwellToBiZZDesignAPI.git
+cd CherwellToBiZZDesignAPI
 ```
 
 Or just Download ZIP and unzip it.
